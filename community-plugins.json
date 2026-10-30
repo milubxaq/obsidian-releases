@@ -67618,5 +67618,12 @@
     "author": "armachive",
     "description": "Move and resize canvas groups and notes AltSnap style. Hold Alt and drag anywhere on a node, no corner hunting. Touch support included. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "armachive/altsnap-for-canvas-nodes"
+  },
+  {
+    "id": "pangu-cn",
+    "name": "中文排版 Pangu CN",
+    "author": "milubxaq",
+    "description": "自动在中英文、中文与数字之间补空格，整理中文标点；支持粘贴时自动排版与整篇、选区、文件夹批量处理。",
+    "repo": "milubxaq/obsidian-pangu-cn"
   }
 ]
