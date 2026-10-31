@@ -13932,7 +13932,7 @@
   {
     "id": "recent-notes",
     "name": "Recent Notes",
-    "author": "kamil-rudnicki",
+    "author": "Kamil Rudnicki",
     "description": "List of recently edited notes with previews by time periods.",
     "repo": "kamil-rudnicki/obsidian-recent-notes"
   },
@@ -33818,7 +33818,7 @@
   },
   {
     "id": "ahmed-toolkit",
-    "name": "FlowKit (formerly My Toolkit)",
+    "name": "Ultimate Toolkit",
     "author": "Ahmed",
     "description": "All-in-one productivity suite: Formatting Palette, AI Smart Templates, Image Control, Fullscreen Note, Premium File Tree, Quick Access Bar, and Folder Focus Mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ahmdmusa/obsidian-toolkit"
@@ -39212,13 +39212,6 @@
     "author": "Maxwell Cohn",
     "description": "Add spreadsheet-style formulas to Markdown tables. Write a formula into a cell, run a command to bake it into a computed value with the formula preserved in a comment for later editing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxcohn/obsidian-simple-table-formulas"
-  },
-  {
-    "id": "maguilanote",
-    "name": "Maguilanote",
-    "author": "Lucas Coutinho",
-    "description": "Milanote-like visual workspace boards inside Obsidian: infinite canvas, notes, images, links, columns, to-do lists, arrows and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lucscout/maguilanote-obsidian"
   },
   {
     "id": "checkbox-context-menu",
@@ -57876,13 +57869,6 @@
     "repo": "vishalrashmika/canvas-plus-plus"
   },
   {
-    "id": "background",
-    "name": "Background",
-    "author": "Qiulin Fan",
-    "description": "Local wallpapers and live per-tab opacity controls for your workspace. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "qiulinfan/obsidian-background"
-  },
-  {
     "id": "latex-live",
     "name": "LaTeX Live",
     "author": "Qiulin Fan",
@@ -58378,13 +58364,6 @@
     "author": "Material Plugins",
     "description": "Watch plugin state and settings, manage portable frontmatter, and coordinate Quartz workflows. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-material-plugins/obsidian-root-books-workspace"
-  },
-  {
-    "id": "unitedshare",
-    "name": "UnitedShare",
-    "author": "united-share",
-    "description": "Ask the model behind api.unitedshare.ai from the current note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "united-share/obsidian-unitedshare"
   },
   {
     "id": "multiline-tabs-wheel-scroll",
@@ -66136,6 +66115,13 @@
     "repo": "xia-ataraxia/obsidian-hermes"
   },
   {
+    "id": "team-relay-sync",
+    "name": "Team Relay Sync",
+    "author": "Entire VC",
+    "description": "Real-time collaboration and web publishing: live cursors, shared folders, AI agent access, self-hosted or hosted. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "entire-vc/evc-team-relay-obsidian"
+  },
+  {
     "id": "kanso-todos",
     "name": "Kanso Todos",
     "author": "Puneeth Shetty",
@@ -68145,6 +68131,13 @@
     "repo": "vladtopchu/simple-train-obsidian-plugin"
   },
   {
+    "id": "multi-note-pdf-printer",
+    "name": "Multi-Note PDF Printer",
+    "author": "p2kkx",
+    "description": "Print notes or whole folders to a single PDF with selectable text, optionally starting each note on a new page. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "p2kkx/obsidian-android-pdf-printer"
+  },
+  {
     "id": "cooking-navigator",
     "name": "Cooking Navigator",
     "author": "Johannes Schwartz",
@@ -68248,5 +68241,19 @@
     "author": "sonldv",
     "description": "Organize one note at a time with graph categories and preview native Graph colours. Keep optional Zen, typewriter and writing controls. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonlndv/Mounty-tool"
+  },
+  {
+    "id": "tasks-table",
+    "name": "Tasks Table",
+    "author": "Kamil Rudnicki",
+    "description": "See the tasks of every note in one table with saved views, filters, sorting and properties. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kamil-rudnicki/obsidian-tasks-table"
+  },
+  {
+    "id": "linkopen",
+    "name": "LinkOpen",
+    "author": "Vladyslav Hrytsenko",
+    "description": "Copy a LinkOpen link to the current note, heading or block. It is an https link, so it stays clickable in Notion, Slack, GitHub and Gmail. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "inlife/obsidian-linkopen"
   }
 ]
