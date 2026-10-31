@@ -68236,6 +68236,13 @@
     "repo": "wsa0227/feishu-sync-double"
   },
   {
+    "id": "atrium",
+    "name": "Atrium",
+    "author": "Sebastien",
+    "description": "A homepage workspace built around your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sebshq/obsidian-atrium"
+  },
+  {
     "id": "splitsmith",
     "name": "Splitsmith",
     "author": "Mira Forge",

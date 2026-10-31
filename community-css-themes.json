@@ -1368,13 +1368,6 @@
     "modes": ["light", "dark"]
   },
   {
-    "name": "Vicious",
-    "author": "zaheralmajed",
-    "repo": "zaheralmajed/vicious-theme-obsidian",
-    "screenshot": "screenshot.png",
-    "modes": ["light", "dark"]
-  },
-  {
     "name": "Spring",
     "author": "mateushenriquegringo",
     "repo": "mateushenriquegringo/spring-theme-obsidian",
