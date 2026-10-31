@@ -6721,5 +6721,19 @@
     "repo": "xwtaidev/obsidian-inkblade-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Mounty",
+    "author": "sonldv",
+    "repo": "sonlndv/Mounty",
+    "screenshot": "docs/images/mounty-light.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "RelKis",
+    "author": "Gleb Chernyshev",
+    "repo": "kissabmi/relkis-obsidian-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
