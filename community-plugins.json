@@ -48664,6 +48664,13 @@
     "repo": "brookzeng2023/obsidian-latex-studio"
   },
   {
+    "id": "chess-repertoire",
+    "name": "Chess Repertoire",
+    "author": "moise",
+    "description": "Import a PGN, annotate lines with notes, arrows and move classifications, then drill them back with hints and a report of what you got wrong. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "moise-dev/obsidian-chess-repertoire"
+  },
+  {
     "id": "auto-heading-numbers",
     "name": "Auto Heading Numbers",
     "author": "gaofeng",
@@ -50678,13 +50685,6 @@
     "author": "Happy Squid",
     "description": "Start and stop Happy Squid tasks from checkboxes in your notes, and keep permanent records of your task goals and daily summaries. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "happy-squid-blocker/obsidian-happy-squid"
-  },
-  {
-    "id": "ilow-sync",
-    "name": "Ilow Sync",
-    "author": "Ilow",
-    "description": "Sync notes, files, settings and themes across devices in real time, end-to-end encrypted, via your own self-hosted server. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ilow-space/IlowObsidianSync"
   },
   {
     "id": "rollover-plus",
@@ -68213,6 +68213,13 @@
     "author": "Shubham Raizada",
     "description": "Turn notes into focused flashcards and quizzes using your AI connection, source evidence, and spaced repetition. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shbhmrzd/rehearse-releases"
+  },
+  {
+    "id": "tau",
+    "name": "tau",
+    "author": "easyontheice",
+    "description": "Tau is an infinitely zoomable vertical timeline plugin for Obsidian with free 2D movement, orthogonal tethers, spans, eras, regions, time measurement, influence lines, and rich note inspectors. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "easyontheice/tau"
   },
   {
     "id": "codex-agent-chat",
