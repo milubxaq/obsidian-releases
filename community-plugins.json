@@ -31532,7 +31532,7 @@
     "name": "File Filter",
     "author": "Sebastien",
     "description": "Filter your vault and your notes in a keystroke — type a word, watch everything irrelevant get out of the away. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lumargh/obsidian-file-filter"
+    "repo": "sebshq/obsidian-file-filter"
   },
   {
     "id": "vault-file-refresh",
@@ -45314,7 +45314,7 @@
     "id": "table-csv",
     "name": "TableCSV",
     "author": "k-tech-studio",
-    "description": "Open CSV and TSV as tables. Filter without changing the file. Select cells for sum, average, and count. Pin last row or first column. Copy, cut, paste. Paste entire table from the clipboard. Offline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Open or create CSV and TSV as tables. Filter without changing the file. Select cells for sum, average, and count. Pin last row or first column. Copy, cut, paste. Paste entire table. Offline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "crossbeat461-a11y/table-csv"
   },
   {
@@ -64190,13 +64190,6 @@
     "repo": "tcrouzet/obsidian-french-typos"
   },
   {
-    "id": "goal-tree",
-    "name": "Goal Tree",
-    "author": "Muhammad Tahoun",
-    "description": "Manage goals, projects, tasks, habits, meetings, calendars, graphs, and personal lists. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "t47oun/obsidian-goal-tree"
-  },
-  {
     "id": "wujie-sync",
     "name": "Wujie Sync",
     "author": "adventurer",
@@ -64265,13 +64258,6 @@
     "author": "Abdulkader Safi",
     "description": "Draw charts from a markdown table or from note properties, in your theme's colours. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "abdulkader-safi/obsidian-s-chart-plugins"
-  },
-  {
-    "id": "drawio-preview",
-    "name": "Drawio Preview",
-    "author": "OLanO",
-    "description": "Preview .drawio diagrams inline as read-only SVGs, with zoom, pan, and multi-page support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nnq7/obsidian-drawio-preview"
   },
   {
     "id": "tag-ontology",
@@ -66881,7 +66867,7 @@
     "id": "paraflow",
     "name": "ParaFlow",
     "author": "flovst",
-    "description": "Provides structured Live Preview list editing with bundled Typora-style reading and editing visuals. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Provides Typora-style reading and editing visuals. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "flovst/obsidian-paraflow"
   },
   {
@@ -68311,5 +68297,40 @@
     "author": "RyomaY",
     "description": "Hide excluded files from Quick Switcher and link suggestions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ryoma-yama/Hide-Excluded-Files-MORE"
+  },
+  {
+    "id": "advanced-mindmap",
+    "name": "Advanced Mindmap",
+    "author": "junhuihuang",
+    "description": "Edit your Markdown notes as an interactive mindmap, with every change written straight back to the note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "junhuihuang/obsidian-advanced-mindmap"
+  },
+  {
+    "id": "social-formatter",
+    "name": "Social Formatter",
+    "author": "spark-ai-boy",
+    "description": "把 Obsidian 笔记转换为微信公众号、今日头条的排版样式，支持自定义主题，一键复制富文本并粘贴到平台编辑器。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "spark-ai-boy/obsidian-social-formatter"
+  },
+  {
+    "id": "dream-table",
+    "name": "Dream Table",
+    "author": "desdrianton",
+    "description": "Complex tables with merged cells, background and text colors, and alignment. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "desdrianton/obsidian_my_dream_table"
+  },
+  {
+    "id": "markup-for-agents",
+    "name": "Markup for Agents",
+    "author": "April",
+    "description": "Annotate passages in your notes and send them, with your selection, to Claude Code and Codex running in Obsidian terminals. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "apri1qing/obsidian-markup-for-agents"
+  },
+  {
+    "id": "dirty-tree-warning",
+    "name": "Dirty Tree Warning",
+    "author": "Top Tier Content",
+    "description": "Warn when quitting if the vault's Git working tree has uncommitted changes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "top-tier-content/dirty-tree-warning"
   }
 ]

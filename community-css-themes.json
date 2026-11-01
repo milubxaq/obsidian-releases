@@ -6728,5 +6728,12 @@
     "repo": "kissabmi/relkis-obsidian-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Strawberry Cloud",
+    "author": "n16htbot",
+    "repo": "n16htb0t/strawberry-cloud",
+    "screenshot": "images/dashboard-light.jpg",
+    "modes": ["dark", "light"]
   }
 ]
