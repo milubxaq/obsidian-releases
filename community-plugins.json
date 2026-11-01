@@ -22008,6 +22008,13 @@
     "repo": "jo-minjun/petrify"
   },
   {
+    "id": "tategaki",
+    "name": "Tategaki",
+    "author": "cat-left-paw",
+    "description": "Edit and read Markdown in vertical writing mode. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cat-left-paw/tategaki-plugin-release"
+  },
+  {
     "id": "scripture-linker",
     "name": "Scripture Linker",
     "author": "marvive",
@@ -59885,13 +59892,6 @@
     "repo": "jimmycallsaul/tagsense"
   },
   {
-    "id": "arcalink-sync",
-    "name": "ArcaLink Sync",
-    "author": "Sankin Denis",
-    "description": "Sync notes between devices through ArcaLink, with shared folders and Telegram. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dnsankin/arcalink"
-  },
-  {
     "id": "mva-records-specials",
     "name": "MVA Records and Specials",
     "author": "Jordan Brown",
@@ -61381,13 +61381,6 @@
     "author": "Brievora",
     "description": "Convert boards made with the Kanban community plugin into notes and a base shown in the native Kanban view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "brievora/kanban-to-bases"
-  },
-  {
-    "id": "ontomark",
-    "name": "Ontomark",
-    "author": "DreamLab AI",
-    "description": "Ontologies in Markdown: index typed notes, run local OWL 2 EL reasoning and SPARQL, apply reviewed frontmatter edits, and optionally extract facts with a model you choose. Offline by default - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dreamlab-ai/ontomark-obsidian"
   },
   {
     "id": "annoteca-mindmap-bridge",
@@ -65032,7 +65025,7 @@
   {
     "id": "sun-home",
     "name": "sun-kb-home",
-    "author": "十一营养师",
+    "author": "sun | 公众号：十一营养师",
     "description": "把 Obsidian 首页变成知识库卡片墙，以真实文件夹分组，点击进入知识库的树状目录；支持拖拽排序、置顶与隐藏文件。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shiyi-sun/obsidian-plugins-sun-home"
   },
@@ -67389,6 +67382,13 @@
     "repo": "notusinggithub/obsidian-wan27"
   },
   {
+    "id": "quick-timestamp",
+    "name": "Quick Timestamp",
+    "author": "Atlas Creative",
+    "description": "Insert timestamps with multiple named formats, AI conversation stamps (per-prefix format and separator), prefix/suffix styling, and daily-note aware insertion. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bzucker4/obsidian-quick-timestamp"
+  },
+  {
     "id": "cjk-emphasis-fix",
     "name": "CJK Emphasis Fix",
     "author": "Jiayu REN",
@@ -68218,7 +68218,7 @@
     "id": "tau",
     "name": "tau",
     "author": "easyontheice",
-    "description": "Tau is an infinitely zoomable vertical timeline plugin for Obsidian with free 2D movement, orthogonal tethers, spans, eras, regions, time measurement, influence lines, and rich note inspectors. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "tau is an infinitely zoomable vertical timeline plugin inspired by UsefulCharts with free 2D movement, orthogonal tethers, spans, regions, time measurement, influence lines, and rich note inspectors. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "easyontheice/tau"
   },
   {
@@ -68269,5 +68269,19 @@
     "author": "Vladyslav Hrytsenko",
     "description": "Copy a LinkOpen link to the current note, heading or block. It is an https link, so it stays clickable in Notion, Slack, GitHub and Gmail. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "inlife/obsidian-linkopen"
+  },
+  {
+    "id": "module-box",
+    "name": "Square Dance Module Box",
+    "author": "Adam Fanello",
+    "description": "Chain square dance choreography modules from your vault on a large, keyboard-driven screen for live calling. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kernwig/module-box"
+  },
+  {
+    "id": "gn-math-normalizer",
+    "name": "GN Math Normalizer",
+    "author": "is_cabral",
+    "description": "Normalize LaTeX and Markdown copied from Gemini Notebook for clean mathematical notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "isc198211-tech/gn-math-normalizer"
   }
 ]
