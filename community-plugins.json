@@ -43495,7 +43495,7 @@
     "name": "Envelopes",
     "author": "Sebastien",
     "description": "Personal finance and envelope budgeting in your vault. Import bank CSVs, log expenses and bills by category, and track cash, income, and where your money goes each month. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lumargh/obsidian-budgets"
+    "repo": "sebshq/obsidian-budgets"
   },
   {
     "id": "sketch-matter",
@@ -47731,13 +47731,6 @@
     "author": "n23eos",
     "description": "Interactive sunburst chart of your vault. See folder sizes on disk, word counts and file counts at a glance, with animated zoom and 13 languages. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "n23eos/obsidian-vault-sunburst"
-  },
-  {
-    "id": "re-supercharged-links",
-    "name": "Re-supercharged Links",
-    "author": "Carl Bechstrom",
-    "description": "Re-Supercharged Links is an advanced link-styling plugin for Obsidian that has evolved far beyond the original fork into a substantially redesigned and expanded implementation. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "carlb01/re-supercharged-links"
   },
   {
     "id": "local-agent-assistant",
@@ -56628,13 +56621,6 @@
     "author": "Fuad Laguda",
     "description": "A Bases view that puts a note in every group its list property names, instead of one combined group. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lagudafuadtosin/split-groups"
-  },
-  {
-    "id": "pickme",
-    "name": "Pick Me",
-    "author": "sean-390",
-    "description": "Annotate and ask questions about the text or region you select, in notes and PDFs, without leaving the page. Annotations live in their own Markdown files and stay linked to the source; the original document is never modified. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sxinyuhoo/pickme"
   },
   {
     "id": "catea-paper",
@@ -67172,13 +67158,6 @@
     "repo": "becoming-hq/becoming-obsidian"
   },
   {
-    "id": "syncify",
-    "name": "Syncify",
-    "author": "earify",
-    "description": "Self-hosted vault sync across your devices. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "earify/syncify"
-  },
-  {
     "id": "longform-extended",
     "name": "Longform Extended",
     "author": "Werner Thomassen Andrade",
@@ -68201,11 +68180,25 @@
     "repo": "jsmorabito/obsidian-document-outline"
   },
   {
+    "id": "courier",
+    "name": "Courier",
+    "author": "ayu",
+    "description": "Sync your Obsidian vault across devices. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ah-yu/courier"
+  },
+  {
     "id": "rehearse",
     "name": "Rehearse",
     "author": "Shubham Raizada",
     "description": "Turn notes into focused flashcards and quizzes using your AI connection, source evidence, and spaced repetition. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shbhmrzd/rehearse-releases"
+  },
+  {
+    "id": "pfpdf-export",
+    "name": "pfpdf Export",
+    "author": "umiyosh",
+    "description": "Export notes to print-quality PDF with pfpdf, including embedded and remote images. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "umiyosh/obsidian-pfpdf-export"
   },
   {
     "id": "tau",
@@ -68297,5 +68290,26 @@
     "author": "EduAIoT",
     "description": "Put your notes to work: ask your vault and get answers with sources, daily review, weekly reports, topic map, skills and note organizing, using your own LLM API key. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "eduaiot/eduaiot-ai-notes"
+  },
+  {
+    "id": "prg-viewer",
+    "name": "PRG Viewer",
+    "author": "woolaof",
+    "description": "Read-only viewer for Project Graph .prg files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "woolaof/obsidian-prg-viewer"
+  },
+  {
+    "id": "plugin-zh-notes",
+    "name": "Chinese Notes",
+    "author": "杜鹏飞",
+    "description": "Add Chinese aliases, explanations, and personal notes to installed community plugins, with offline references and optional online translation and AI analysis. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "frank998-dpf/plugin-zh-notes"
+  },
+  {
+    "id": "hide-excluded-files-more",
+    "name": "Hide Excluded Files MORE",
+    "author": "RyomaY",
+    "description": "Hide excluded files from Quick Switcher and link suggestions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ryoma-yama/Hide-Excluded-Files-MORE"
   }
 ]
