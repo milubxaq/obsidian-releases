@@ -53046,13 +53046,6 @@
     "repo": "albibenni/obsidian-ask-ai"
   },
   {
-    "id": "scvmbirther",
-    "name": "SCVM Birther",
-    "author": "Barrow Rook",
-    "description": "Generate MÖRK BORG-compatible characters as polished Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "rbell13/obsidian-scvmbirther"
-  },
-  {
     "id": "list-callouts-improved",
     "name": "List Callouts Improved",
     "author": "Daniel Yim",
@@ -68290,6 +68283,13 @@
     "author": "David Somori",
     "description": "Sync selected Obsidian folders with Day and Age AI Gurus. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "davidean7/day-age-ai-gurus"
+  },
+  {
+    "id": "sun-daoru",
+    "name": "Daoru",
+    "author": "sun | 公众号：十一营养师",
+    "description": "把 Word (.docx) 文档导入为 Markdown 笔记，提取图片和替代文字，保留标题、列表、表格与链接，并列出没能导入的内容。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shiyi-sun/obsidian-plugins-sun-daoru"
   },
   {
     "id": "eduaiot-ai-notes",
