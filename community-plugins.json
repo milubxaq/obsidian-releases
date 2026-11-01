@@ -21525,6 +21525,13 @@
     "repo": "tiemio/Image-Metadata-Stripper"
   },
   {
+    "id": "dinox-sync",
+    "name": "Dinox Sync",
+    "author": "ryzencool",
+    "description": "Synchronize notes between Dinox and your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ryzencool/dinox-sync"
+  },
+  {
     "id": "codesplash-themes",
     "name": "CodeSplash Themes",
     "author": "codesplash-ai",
@@ -68012,13 +68019,6 @@
     "repo": "vladtopchu/algo-patterns-obsidian-plugin"
   },
   {
-    "id": "basic-ai-tool-for-writers",
-    "name": "Basic AI Tool for Writers",
-    "author": "Alan D. Darfin",
-    "description": "Customizable Obsidian writing suite: Longform, optional modules, AI review, LanguageTool, Markdown tools, snapshots and diagnostics. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "alandarfin/Basic-AI-Tools-For-Writers"
-  },
-  {
     "id": "smart-todos",
     "name": "Smart Todo",
     "author": "Vlad Topchu",
@@ -68283,5 +68283,19 @@
     "author": "is_cabral",
     "description": "Normalize LaTeX and Markdown copied from Gemini Notebook for clean mathematical notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isc198211-tech/gn-math-normalizer"
+  },
+  {
+    "id": "day-age-ai-gurus",
+    "name": "Day and Age AI Gurus",
+    "author": "David Somori",
+    "description": "Sync selected Obsidian folders with Day and Age AI Gurus. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "davidean7/day-age-ai-gurus"
+  },
+  {
+    "id": "eduaiot-ai-notes",
+    "name": "EduAIoT AI Notes",
+    "author": "EduAIoT",
+    "description": "Put your notes to work: ask your vault and get answers with sources, daily review, weekly reports, topic map, skills and note organizing, using your own LLM API key. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "eduaiot/eduaiot-ai-notes"
   }
 ]
